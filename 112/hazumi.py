@@ -19,3 +19,12 @@ if __name__ == "__main__":
             if x * 1.0 / i == 0.99:
                 print i
                 break
+
+"""
+$ time python hazumi.py 
+1587000
+
+real    0m9.243s
+user    0m9.151s
+sys     0m0.046s
+"""

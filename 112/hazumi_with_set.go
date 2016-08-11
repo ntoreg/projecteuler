@@ -51,3 +51,11 @@ func main() {
     }
 }
 
+/*
+$ time ./hazumi_with_set
+1587000
+
+real    0m3.760s
+user    0m4.028s
+sys     0m0.060s
+*/

@@ -47,3 +47,11 @@ func main() {
     }
 }
 
+/*
+$ time ./hazumi
+1587000
+
+real    0m0.295s
+user    0m0.300s
+sys     0m0.013s
+*/
